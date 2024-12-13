@@ -1,6 +1,5 @@
 # final_project
-Correlation Between  Health Awareness and Newly diagnosed Diabetes
-##**Abstract**
+## **Abstract**
 This study aims to investigate the correlation between the public's growing awareness of diseases and changes in the number of new cases of those diseases. Identifying a consistent relationship between increased awareness and fluctuations in the incidence of new cases could enable the development of effective preventive healthcare campaigns and policy initiatives.
 
 For this analysis, approximately 1,200 articles related to diabetes were extracted from Factiva, ensuring the use of reliable resources. The study examines the annual trend in the number of diabetes-related articles and its correlation with the number of new diabetes cases. Furthermore, topic modeling was employed to identify specific themes discussed within the context of diabetes.
